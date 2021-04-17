@@ -1,4 +1,7 @@
 # twitter-timeline-remover
+
+https://addons.mozilla.org/en-US/firefox/addon/twitter-timeline-remover/
+
 an extension for firefox. Incredibly basic and simple script for curbing Twitter addiction. This plugin disables the timeline on your homepage, allowing you to strictly rely on your personally curated lists and end the endless scrolling.
 
 ![page preview](https://addons.cdn.mozilla.net/user-media/previews/full/254/254536.png?modified=1617419649)
